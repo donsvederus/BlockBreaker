@@ -9,11 +9,38 @@ EditorBuildSettings:
     path: Assets/Scenes/Start Menu.unity
     guid: b64e1f6f2819bd3468a5adcdd7c4e7fc
   - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2fab41a2c7e0da14a8503fbc43b11814
+  - enabled: 1
     path: Assets/Scenes/Level 2.unity
     guid: 071e5dba928ba3f409046e6646a5ec34
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
-    guid: 2fab41a2c7e0da14a8503fbc43b11814
+    path: Assets/Scenes/Level 3.unity
+    guid: 49f539b761bf9fb42826160f3b79842c
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: ae78926e5067ef34687701bfa05b87c9
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: bc6dc92394f4c784e8354e27c1723caf
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 1ac22221ffce64b45b37f245caf18461
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: ab69e4d33719f3946b02bb46d0ac0a3d
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 21a8510df32a04740bdb6e45657f5d8f
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 1d4410b3f77c8cb418763955b518291e
+  - enabled: 1
+    path: Assets/Scenes/Level 10.unity
+    guid: c9abaa5fdd2df2949bb65871b5829235
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: a6682a6f4caa0a847ab16d523dc62aaa
   - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: 7eeed351003e94547bfdc50d76007915
